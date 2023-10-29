@@ -61,3 +61,13 @@ ___
 - Managed to confirm a meeting on October 27th with the researcher at RAND who sent the dataset; now I'll get to chat about my paper and get some tailored feedback on the topic from a leading think tank professional. Going to pat myself on the back for managing to pull this off.
 
 - Mood: Smug
+
+### October 27, 2023 (No. 10)
+
+- Had that meeting with the RAND researcher today; spent over an hour discussing the dataset and research setup; also chatted about some of the finer contextual
+details of aerial warfare operations; pretty illuminating stuff.
+
+- Also got some neat feedback; he suggested including few case studies at the city-level to assess the impact of striking strategic targets. Said it could be
+an interesting contrast to the wider analysis I have planned. That sounds really interesting, I'll definitely take a look at it.
+
+- Mood: Upbeat
