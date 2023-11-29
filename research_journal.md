@@ -67,7 +67,40 @@ ___
 - Had that meeting with the RAND researcher today; spent over an hour discussing the dataset and research setup; also chatted about some of the finer contextual
 details of aerial warfare operations; pretty illuminating stuff.
 
-- Also got some neat feedback; he suggested including few case studies at the city-level to assess the impact of striking strategic targets. Said it could be
-an interesting contrast to the wider analysis I have planned. That sounds really interesting, I'll definitely take a look at it.
+- Also got some neat feedback; he suggested including few case studies at the city-level to assess the impact of striking strategic targets. Said it could be an interesting contrast to the wider analysis I have planned. That sounds really interesting, I'll definitely take a look at it.
 
 - Mood: Upbeat
+
+### November 1, 2023 (No. 11)
+
+- Started assembling data for the event studies; still need to choose relevant targets and an appropriate time window
+
+- Mood: Neutral
+
+### November 3, 2023 (No. 12)
+
+- Thought about the event study setup a bit more; Maybe I could have side-by-side comparisons of strikes against the same target in two different
+cities? That would be pretty neat. I'll give it a shot and see how it goes.
+
+- Decided to use strikes against command and control (C2) and supply routes as the treatment for the event study.
+
+- Mood: Neutral
+
+### November 4, 2023 (No. 13)
+
+- Assembled target data for Mosul and Ramadi and ran the event studies. Turns out that attack data in Ramadi is too sparse to consistently estimate
+a model. I guess that's the end of that.
+
+- Mood: Unimpressed
+
+### November 5, 2023 (No. 14)
+
+- Going to take a break for a while to focus on a paper for another class; will return in a week or so
+
+- Mood: Neutral
+
+### November 15, 2023 (No. 14)
+
+- We're back; planning on spending the next few days fine tuning the analysis to make it more tractable
+
+- Mood: Neutral
