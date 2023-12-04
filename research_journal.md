@@ -26,7 +26,7 @@ ___
 
 ### October 12, 2023 (No. 4)
 
-- Some great developments; had a phone call with a program director at  RAND to chat about getting their strike dataset and he put me in touch with a senior research fellow at the Center for a New American Security (CNAS). She reached out and offered to advise me on writing my paper; already emailed back to set up a meeting sometime next week.
+- Some great developments; had a phone call with a program director at RAND to chat about getting their strike dataset and he put me in touch with a senior research fellow at the Center for a New American Security (CNAS). She reached out and offered to advise me on writing my paper; already emailed back to set up a meeting sometime next week.
 
 - Mood: Ecstatic
 
@@ -64,16 +64,17 @@ ___
 
 ### October 27, 2023 (No. 10)
 
-- Had that meeting with the RAND researcher today; spent over an hour discussing the dataset and research setup; also chatted about some of the finer contextual
-details of aerial warfare operations; pretty illuminating stuff.
+- Had that meeting with the RAND researcher today; spent over an hour discussing the dataset and research setup; also chatted about some of the finer contextual details of aerial warfare operations; pretty illuminating stuff.
 
 - Also got some neat feedback; he suggested including few case studies at the city-level to assess the impact of striking strategic targets. Said it could be an interesting contrast to the wider analysis I have planned. That sounds really interesting, I'll definitely take a look at it.
 
 - Mood: Upbeat
 
+___
+
 ### November 1, 2023 (No. 11)
 
-- Started assembling data for the event studies; still need to choose relevant targets and an appropriate time window
+- Started assembling data for the event studies; still need to choose relevant targets and an appropriate time window.
 
 - Mood: Neutral
 
@@ -95,12 +96,61 @@ a model. I guess that's the end of that.
 
 ### November 5, 2023 (No. 14)
 
-- Going to take a break for a while to focus on a paper for another class; will return in a week or so
+- Going to take a break for a while to focus on a paper for another class; will return in a week or so.
 
 - Mood: Neutral
 
 ### November 15, 2023 (No. 14)
 
-- We're back; planning on spending the next few days fine tuning the analysis to make it more tractable
+- We're back; planning on spending the next few days fine tuning the analysis to make it more tractable.
 
 - Mood: Neutral
+
+### November 18, 2023 (No. 15)
+
+- Took a break for a few days to think about some possible final revisions to the analysis; Decided to focus ONLY on the
+Battle of Mosul for the event studies due to its criticality in defeating ISIS.
+
+- Also included event studies on communications infrastructure and IED facilities to cover all 4 target categories for a more
+comprehensive analysis, should be interesting.
+
+- Mood: Neutral
+
+### November 19, 2023 (No. 16)
+
+- Got the data for the two extra event studies and ran the models; looks pretty good, time to compile the results and make some
+charts
+
+- Mood: Upbeat
+
+### November 22, 2023 (No. 17)
+
+- The end is in sight; started making presentation slides since all the results are in. Should I add background pictures of fighter
+jets to make the slides look cooler? I think I should.
+
+- Mood: Upbeat
+
+### November 26, 2023 (No. 18)
+
+- You win some, you lose some; Slides are all done but I caught a wicked cold so I can't record the presentation otherwise
+it'd sound like I have sandpaper stuffed down my throat. I guess that'll have to wait a few days.
+
+- Mood: Annoyed
+
+### November 29, 2023 (No. 19)
+
+- Made a last minute tweak to the research setup. Swapped fatalities from ISIS terror attacks for ISIS insurgency actions to
+better capture overall ISIS activity in response to airstrikes.
+
+- Managed to update the data without any hassle and reran the analysis; results look promising.
+
+- Mood: Upbeat
+
+---
+
+### December 2, 2023 (No. 20)
+
+- Home stretch; Presentation's finally recorded and ready to go; hopefully whoever watches it finds it half as interesting as I do!
+All that's left is to write the paper and we're finally done.
+
+- Mood: Hyped
