@@ -154,3 +154,24 @@ better capture overall ISIS activity in response to airstrikes.
 All that's left is to write the paper and we're finally done.
 
 - Mood: Hyped
+
+### December 7, 2023 (No. 21)
+
+- Good progress on writing the paper so far; main results section looks good so far
+
+- Mood: Neutral
+
+### December 10, 2023 (No. 22)
+
+- Paper's nearing completion; still need to finish the write-up for the case study and add some stuff to the literature review;
+introduction section could also use some revision; Will also need to reformat 
+
+- Mood: Neutral
+
+### December 16, 2023 (No. 23)
+
+- That's a wrap; Paper is officially finished and submitted for review! It's certainly been an interesting journey, and not without
+some frustrations along the way, but it's definitely one I'll remember.
+
+- Mood: Accomplished
+
